@@ -6,5 +6,5 @@ Add a new line.
 Creating a new branch is quick, and simple
 change readme.txt
 dev
-strategies
+strategiesssssssssss
 
